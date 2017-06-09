@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="Hero_header_section">
         <h1 className="Hero_header">Hello there!</h1>
         <p className="Hero_subheader">My name is Kinga</p>
-        <p className="Hero_subheader">I'm a front-end developer</p>
+        <p className="Hero_subheader">I am a front-end developer</p>
 
       </div>
     </div>
